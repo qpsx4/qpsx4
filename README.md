@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" width="80"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width="80"/>
 
 
 
