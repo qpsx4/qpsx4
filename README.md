@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/GwGXoeb0gm7sc/giphy.gif" width="300"/>
 </div>
 
-<h1 margin>Languages and tools</h1>
+<h2 margin-top=500px>Languages and tools:</h2>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" width="50" height="50"/>
@@ -17,6 +17,6 @@
 
 
 
-<p>Contact with me:</p>
+<h2>Contact with me:</h2>
 
 [<img src='https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif' alt='telegram' height='40'>](https://t.me/VolokitinSergey)  
